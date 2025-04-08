@@ -1,192 +1,192 @@
-2025-04-08 00:43:22.679585 - Received SBGOLOB.CBT509.FILE035 from FILE035.XMI 
-2025-04-08 00:43:22.686434 - Found alias ACTIVE to USERS in SBGOLOB.CBT509.FILE035, moved to PDS/ACTIVE
-2025-04-08 00:43:22.688169 - Found ADIS.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/ADIS
-2025-04-08 00:43:22.689762 - Found ALLIDS.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/ALLIDS
-2025-04-08 00:43:22.691140 - Found APFLIST.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/APFLIST
-2025-04-08 00:43:22.692552 - Found ARCHINIT.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/ARCHINIT
-2025-04-08 00:43:22.694894 - Found ARCHIVER.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/ARCHIVER
-2025-04-08 00:43:22.696378 - Found ARCHPARS.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/ARCHPARS
-2025-04-08 00:43:22.698292 - Found ASMTOZAF.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/ASMTOZAF
-2025-04-08 00:43:22.699850 - Found ASMTOZAP.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/ASMTOZAP
-2025-04-08 00:43:22.701504 - Found ASUB.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/ASUB
-2025-04-08 00:43:22.703019 - Found BDMNNOTC.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/BDMNNOTC
-2025-04-08 00:43:22.704507 - Found BLKDISK.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/BLKDISK
-2025-04-08 00:43:22.705071 - Found alias BLK23051 to BLKDISK in SBGOLOB.CBT509.FILE035, moved to PDS/BLK23051
-2025-04-08 00:43:22.705698 - Found alias BLK23052 to BLKDISK in SBGOLOB.CBT509.FILE035, moved to PDS/BLK23052
-2025-04-08 00:43:22.706141 - Found alias BLK2314 to BLKDISK in SBGOLOB.CBT509.FILE035, moved to PDS/BLK2314
-2025-04-08 00:43:22.706581 - Found alias BLK3330 to BLKDISK in SBGOLOB.CBT509.FILE035, moved to PDS/BLK3330
-2025-04-08 00:43:22.707180 - Found alias BLK33301 to BLKDISK in SBGOLOB.CBT509.FILE035, moved to PDS/BLK33301
-2025-04-08 00:43:22.707615 - Found alias BLK3340 to BLKDISK in SBGOLOB.CBT509.FILE035, moved to PDS/BLK3340
-2025-04-08 00:43:22.708225 - Found alias BLK3350 to BLKDISK in SBGOLOB.CBT509.FILE035, moved to PDS/BLK3350
-2025-04-08 00:43:22.708679 - Found alias BLK3375 to BLKDISK in SBGOLOB.CBT509.FILE035, moved to PDS/BLK3375
-2025-04-08 00:43:22.709139 - Found alias BLK3380 to BLKDISK in SBGOLOB.CBT509.FILE035, moved to PDS/BLK3380
-2025-04-08 00:43:22.709621 - Found alias BLK3390 to BLKDISK in SBGOLOB.CBT509.FILE035, moved to PDS/BLK3390
-2025-04-08 00:43:22.710205 - Found alias BLK9345 to BLKDISK in SBGOLOB.CBT509.FILE035, moved to PDS/BLK9345
-2025-04-08 00:43:22.711698 - Found BURN.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/BURN
-2025-04-08 00:43:22.713178 - Found CBTUPD.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/CBTUPD
-2025-04-08 00:43:22.715186 - Found CBT1269.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/CBT1269
-2025-04-08 00:43:22.716666 - Found CBT973.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/CBT973
-2025-04-08 00:43:22.718823 - Found CCKDDUMP.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/CCKDDUMP
-2025-04-08 00:43:22.721302 - Found CCKDLOAD.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/CCKDLOAD
-2025-04-08 00:43:22.722849 - Found CDSCB.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/CDSCB
-2025-04-08 00:43:22.724286 - Found CDSCB1.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/CDSCB1
-2025-04-08 00:43:22.725654 - Found CINMX.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/CINMX
-2025-04-08 00:43:22.727175 - Found CKIEBGEN.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/CKIEBGEN
-2025-04-08 00:43:22.728662 - Found CKIEBG06.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/CKIEBG06
-2025-04-08 00:43:22.730169 - Found CKIEBG07.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/CKIEBG07
-2025-04-08 00:43:22.731737 - Found CNCLPG.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/CNCLPG
-2025-04-08 00:43:22.733133 - Found CNCLP125.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/CNCLP125
-2025-04-08 00:43:22.734765 - Found COMPARE.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/COMPARE
-2025-04-08 00:43:22.735383 - Found alias COMPARE$ to COMPARE in SBGOLOB.CBT509.FILE035, moved to PDS/COMPARE$
-2025-04-08 00:43:22.737107 - Found COMPAREB.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/COMPAREB
-2025-04-08 00:43:22.738599 - Found COMPAREC.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/COMPAREC
-2025-04-08 00:43:22.739938 - Found COMPAREW.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/COMPAREW
-2025-04-08 00:43:22.741409 - Found COPYFILE.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/COPYFILE
-2025-04-08 00:43:22.743190 - Found COPYFILO.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/COPYFILO
-2025-04-08 00:43:22.744990 - Found COPYMODS.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/COPYMODS
-2025-04-08 00:43:22.746497 - Found COPYMO55.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/COPYMO55
-2025-04-08 00:43:22.748271 - Found COPYMO83.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/COPYMO83
-2025-04-08 00:43:22.749705 - Found COPYNLNL.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/COPYNLNL
-2025-04-08 00:43:22.751341 - Found COPYNLNO.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/COPYNLNO
-2025-04-08 00:43:22.753009 - Found COPYSLNL.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/COPYSLNL
-2025-04-08 00:43:22.754418 - Found COPYSLNO.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/COPYSLNO
-2025-04-08 00:43:22.756131 - Found COPYSLNP.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/COPYSLNP
-2025-04-08 00:43:22.757607 - Found CPSCB.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/CPSCB
-2025-04-08 00:43:22.759215 - Found DA.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/DA
-2025-04-08 00:43:22.762061 - Found DAF.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/DAF
-2025-04-08 00:43:22.764270 - Found DAF130.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/DAF130
-2025-04-08 00:43:22.766608 - Found DAF140.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/DAF140
-2025-04-08 00:43:22.768878 - Found DAF142.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/DAF142
-2025-04-08 00:43:22.771472 - Found DAF144.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/DAF144
-2025-04-08 00:43:22.774011 - Found DAF147.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/DAF147
-2025-04-08 00:43:22.777099 - Found DAF148.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/DAF148
-2025-04-08 00:43:22.779935 - Found DAF149.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/DAF149
-2025-04-08 00:43:22.781633 - Found DELINUSE.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/DELINUSE
-2025-04-08 00:43:22.783446 - Found DISKMAP.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/DISKMAP
-2025-04-08 00:43:22.785080 - Found DOCFILE.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/DOCFILE
-2025-04-08 00:43:22.786580 - Found DSAT.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/DSAT
-2025-04-08 00:43:22.788042 - Found DSATN.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/DSATN
-2025-04-08 00:43:22.789595 - Found DSATO.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/DSATO
-2025-04-08 00:43:22.790986 - Found DSAT1.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/DSAT1
-2025-04-08 00:43:22.792778 - Found DSAT2.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/DSAT2
-2025-04-08 00:43:22.794312 - Found DTEST.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/DTEST
-2025-04-08 00:43:22.795650 - Found DUSER.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/DUSER
-2025-04-08 00:43:22.797203 - Found DVOL.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/DVOL
-2025-04-08 00:43:22.798622 - Found EESCB.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/EESCB
-2025-04-08 00:43:22.800322 - Found FASTPATH.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/FASTPATH
-2025-04-08 00:43:22.801898 - Found FASTP149.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/FASTP149
-2025-04-08 00:43:22.803572 - Found IEBGEOLD.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/IEBGEOLD
-2025-04-08 00:43:22.805202 - Found IEBTSUB.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/IEBTSUB
-2025-04-08 00:43:22.806795 - Found IEHMAP.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/IEHMAP
-2025-04-08 00:43:22.808347 - Found IEHMAPIN.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/IEHMAPIN
-2025-04-08 00:43:22.809975 - Found IGG019WD.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/IGG019WD
-2025-04-08 00:43:22.811340 - Found IGG019WE.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/IGG019WE
-2025-04-08 00:43:22.813042 - Found INMXD.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/INMXD
-2025-04-08 00:43:22.814803 - Found LASTCLPA.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/LASTCLPA
-2025-04-08 00:43:22.816311 - Found LASTIPL.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/LASTIPL
-2025-04-08 00:43:22.817769 - Found LISPDS.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/LISPDS
-2025-04-08 00:43:22.819215 - Found LISTHEAD.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/LISTHEAD
-2025-04-08 00:43:22.820799 - Found LISTMOD.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/LISTMOD
-2025-04-08 00:43:22.822272 - Found LISTMODD.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/LISTMODD
-2025-04-08 00:43:22.823999 - Found LISTPDS.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/LISTPDS
-2025-04-08 00:43:22.825462 - Found LLWA.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/LLWA
-2025-04-08 00:43:22.826832 - Found LOADTEST.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/LOADTEST
-2025-04-08 00:43:22.827533 - Found alias LOADTN to LOADTEST in SBGOLOB.CBT509.FILE035, moved to PDS/LOADTN
-2025-04-08 00:43:22.829085 - Found LOGOPTS.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/LOGOPTS
-2025-04-08 00:43:22.830412 - Found LOGTIME.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/LOGTIME
-2025-04-08 00:43:22.832364 - Found LOOK.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/LOOK
-2025-04-08 00:43:22.834229 - Found LOOKJ.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/LOOKJ
-2025-04-08 00:43:22.836248 - Found LOOKX.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/LOOKX
-2025-04-08 00:43:22.838081 - Found LOOK1.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/LOOK1
-2025-04-08 00:43:22.839811 - Found LOOK2.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/LOOK2
-2025-04-08 00:43:22.841869 - Found LOOK3.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/LOOK3
-2025-04-08 00:43:22.843941 - Found LOOK31.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/LOOK31
-2025-04-08 00:43:22.845831 - Found LOOK4.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/LOOK4
-2025-04-08 00:43:22.847658 - Found LPSCB.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/LPSCB
-2025-04-08 00:43:22.849134 - Found LWATEDIT.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/LWATEDIT
-2025-04-08 00:43:22.850835 - Found LWATMGR.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/LWATMGR
-2025-04-08 00:43:22.851632 - Found alias MAPTAPE to SS0104 in SBGOLOB.CBT509.FILE035, moved to PDS/MAPTAPE
-2025-04-08 00:43:22.853764 - Found OFFLOAD.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/OFFLOAD
-2025-04-08 00:43:22.855828 - Found OFFLOADO.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/OFFLOADO
-2025-04-08 00:43:22.857828 - Found OFFLOADW.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/OFFLOADW
-2025-04-08 00:43:22.859645 - Found OFFLOAD1.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/OFFLOAD1
-2025-04-08 00:43:22.861542 - Found ONLCLIP.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/ONLCLIP
-2025-04-08 00:43:22.863226 - Found ONLCLIPX.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/ONLCLIPX
-2025-04-08 00:43:22.864864 - Found OSTAREDC.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/OSTAREDC
-2025-04-08 00:43:22.866381 - Found OSTRIP.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/OSTRIP
-2025-04-08 00:43:22.868038 - Found PACKRAT.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/PACKRAT
-2025-04-08 00:43:22.869868 - Found PACKRATU.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/PACKRATU
-2025-04-08 00:43:22.870571 - Found alias PDS to PDS86 in SBGOLOB.CBT509.FILE035, moved to PDS/PDS
-2025-04-08 00:43:22.872000 - Found PDSLOAD.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/PDSLOAD
-2025-04-08 00:43:22.873665 - Found PDSLOADO.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/PDSLOADO
-2025-04-08 00:43:22.874373 - Found alias PDSLOADW to PDSLOAD in SBGOLOB.CBT509.FILE035, moved to PDS/PDSLOADW
-2025-04-08 00:43:22.875811 - Found PDSLOAD1.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/PDSLOAD1
-2025-04-08 00:43:22.877303 - Found PDSLOAD2.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/PDSLOAD2
-2025-04-08 00:43:22.878949 - Found PDSLOAD3.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/PDSLOAD3
-2025-04-08 00:43:22.880706 - Found PDSLOAD4.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/PDSLOAD4
-2025-04-08 00:43:22.882273 - Found PDSMATCH.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/PDSMATCH
-2025-04-08 00:43:22.883792 - Found PDSMATC1.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/PDSMATC1
-2025-04-08 00:43:22.885144 - Found PDSMATC2.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/PDSMATC2
-2025-04-08 00:43:22.886863 - Found PDSORIG.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/PDSORIG
-2025-04-08 00:43:22.888429 - Found PDSUR.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/PDSUR
-2025-04-08 00:43:22.890067 - Found PDSUR00.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/PDSUR00
-2025-04-08 00:43:22.891612 - Found PDSUR01.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/PDSUR01
-2025-04-08 00:43:22.892160 - Found alias PDS38 to PDS8638 in SBGOLOB.CBT509.FILE035, moved to PDS/PDS38
-2025-04-08 00:43:22.895560 - Found PDS86.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/PDS86
-2025-04-08 00:43:22.898773 - Found PDS86I.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/PDS86I
-2025-04-08 00:43:22.902136 - Found PDS8638.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/PDS8638
-2025-04-08 00:43:22.903806 - Found RECONLIM.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/RECONLIM
-2025-04-08 00:43:22.905186 - Found RELEASE.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/RELEASE
-2025-04-08 00:43:22.906780 - Found RESET.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/RESET
-2025-04-08 00:43:22.908117 - Found SHOWTCAS.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/SHOWTCAS
-2025-04-08 00:43:22.909766 - Found SHOWTPVT.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/SHOWTPVT
-2025-04-08 00:43:22.911361 - Found SS0104.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/SS0104
-2025-04-08 00:43:22.912932 - Found STEPLIB.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/STEPLIB
-2025-04-08 00:43:22.914468 - Found STEPLIBO.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/STEPLIBO
-2025-04-08 00:43:22.915884 - Found STEPLIB1.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/STEPLIB1
-2025-04-08 00:43:22.917362 - Found TAPEL.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/TAPEL
-2025-04-08 00:43:22.919071 - Found TAPEMAP.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/TAPEMAP
-2025-04-08 00:43:22.920551 - Found TAPEMAPM.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/TAPEMAPM
-2025-04-08 00:43:22.921965 - Found TAPEMAPO.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/TAPEMAPO
-2025-04-08 00:43:22.923679 - Found TAPEMAPX.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/TAPEMAPX
-2025-04-08 00:43:22.925231 - Found TAPESCAN.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/TAPESCAN
-2025-04-08 00:43:22.925789 - Found alias TAPESC46 to TAPESCAN in SBGOLOB.CBT509.FILE035, moved to PDS/TAPESC46
-2025-04-08 00:43:22.927594 - Found TCOPY.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/TCOPY
-2025-04-08 00:43:22.928992 - Found TRMSZRPT.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/TRMSZRPT
-2025-04-08 00:43:22.930678 - Found TSTVS.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/TSTVS
-2025-04-08 00:43:22.932192 - Found TSUB.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/TSUB
-2025-04-08 00:43:22.933766 - Found TSUINFO.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/TSUINFO
-2025-04-08 00:43:22.936957 - Found TSUPDATE.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/TSUPDATE
-2025-04-08 00:43:22.938704 - Found UCBDASD.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/UCBDASD
-2025-04-08 00:43:22.940408 - Found UCBTAPE.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/UCBTAPE
-2025-04-08 00:43:22.941810 - Found UCBTYPE.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/UCBTYPE
-2025-04-08 00:43:22.943186 - Found UKEYCSA.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/UKEYCSA
-2025-04-08 00:43:22.944720 - Found ULUDASD.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/ULUDASD
-2025-04-08 00:43:22.946154 - Found ULUDIAG.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/ULUDIAG
-2025-04-08 00:43:22.947848 - Found ULUONLN.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/ULUONLN
-2025-04-08 00:43:22.949492 - Found ULUTAPE.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/ULUTAPE
-2025-04-08 00:43:22.950840 - Found ULUTSCAN.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/ULUTSCAN
-2025-04-08 00:43:22.952518 - Found ULUTYPE.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/ULUTYPE
-2025-04-08 00:43:22.954171 - Found USERMAX.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/USERMAX
-2025-04-08 00:43:22.955799 - Found USERS.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/USERS
-2025-04-08 00:43:22.957159 - Found VSAMADTL.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/VSAMADTL
-2025-04-08 00:43:22.958859 - Found VSAMAGET.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/VSAMAGET
-2025-04-08 00:43:22.960940 - Found VSAMAHLP.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/VSAMAHLP
-2025-04-08 00:43:22.962516 - Found VSAMANAL.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/VSAMANAL
-2025-04-08 00:43:22.964043 - Found VSAMANDX.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/VSAMANDX
-2025-04-08 00:43:22.964693 - Found alias VSAMMAPP to CBT1269 in SBGOLOB.CBT509.FILE035, moved to PDS/VSAMMAPP
-2025-04-08 00:43:22.966047 - Found VSAMSIZE.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/VSAMSIZE
-2025-04-08 00:43:22.967629 - Found VTOC.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/VTOC
-2025-04-08 00:43:22.969284 - Found VTOCO.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/VTOCO
-2025-04-08 00:43:22.970742 - Found VTOC1.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/VTOC1
-2025-04-08 00:43:22.972154 - Found VTOC24.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/VTOC24
-2025-04-08 00:43:22.972846 - Found alias VTOC31 to VTOCO in SBGOLOB.CBT509.FILE035, moved to PDS/VTOC31
-2025-04-08 00:43:22.974312 - Found VTT2CNVU.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/VTT2CNVU
-2025-04-08 00:43:22.975669 - Found VTT2DISK.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/VTT2DISK
-2025-04-08 00:43:22.977249 - Found VTT2FK2T.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/VTT2FK2T
-2025-04-08 00:43:22.978827 - Found VTT2TAPE.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/VTT2TAPE
-2025-04-08 00:43:22.980371 - Found VTT2T2FK.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/VTT2T2FK
-2025-04-08 00:43:22.981697 - Found WHATSNEW.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/WHATSNEW
-2025-04-08 00:43:22.983280 - Found XEQ.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/XEQ
-2025-04-08 00:43:22.984867 - Found XMDSMAIN.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/XMDSMAIN
-2025-04-08 00:43:22.986267 - Found ZAPDSCB.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/ZAPDSCB
+2025-04-08 18:00:27.439977 - Received SBGOLOB.CBT509.FILE035 from FILE035.XMI 
+2025-04-08 18:00:27.446238 - Found alias ACTIVE to USERS in SBGOLOB.CBT509.FILE035, moved to PDS/ACTIVE
+2025-04-08 18:00:27.447064 - Found ADIS.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/ADIS
+2025-04-08 18:00:27.447805 - Found ALLIDS.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/ALLIDS
+2025-04-08 18:00:27.448448 - Found APFLIST.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/APFLIST
+2025-04-08 18:00:27.449183 - Found ARCHINIT.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/ARCHINIT
+2025-04-08 18:00:27.449948 - Found ARCHIVER.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/ARCHIVER
+2025-04-08 18:00:27.450594 - Found ARCHPARS.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/ARCHPARS
+2025-04-08 18:00:27.451319 - Found ASMTOZAF.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/ASMTOZAF
+2025-04-08 18:00:27.451987 - Found ASMTOZAP.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/ASMTOZAP
+2025-04-08 18:00:27.452686 - Found ASUB.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/ASUB
+2025-04-08 18:00:27.453363 - Found BDMNNOTC.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/BDMNNOTC
+2025-04-08 18:00:27.454054 - Found BLKDISK.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/BLKDISK
+2025-04-08 18:00:27.454410 - Found alias BLK23051 to BLKDISK in SBGOLOB.CBT509.FILE035, moved to PDS/BLK23051
+2025-04-08 18:00:27.454741 - Found alias BLK23052 to BLKDISK in SBGOLOB.CBT509.FILE035, moved to PDS/BLK23052
+2025-04-08 18:00:27.454995 - Found alias BLK2314 to BLKDISK in SBGOLOB.CBT509.FILE035, moved to PDS/BLK2314
+2025-04-08 18:00:27.455255 - Found alias BLK3330 to BLKDISK in SBGOLOB.CBT509.FILE035, moved to PDS/BLK3330
+2025-04-08 18:00:27.455484 - Found alias BLK33301 to BLKDISK in SBGOLOB.CBT509.FILE035, moved to PDS/BLK33301
+2025-04-08 18:00:27.455719 - Found alias BLK3340 to BLKDISK in SBGOLOB.CBT509.FILE035, moved to PDS/BLK3340
+2025-04-08 18:00:27.455965 - Found alias BLK3350 to BLKDISK in SBGOLOB.CBT509.FILE035, moved to PDS/BLK3350
+2025-04-08 18:00:27.456256 - Found alias BLK3375 to BLKDISK in SBGOLOB.CBT509.FILE035, moved to PDS/BLK3375
+2025-04-08 18:00:27.456556 - Found alias BLK3380 to BLKDISK in SBGOLOB.CBT509.FILE035, moved to PDS/BLK3380
+2025-04-08 18:00:27.456822 - Found alias BLK3390 to BLKDISK in SBGOLOB.CBT509.FILE035, moved to PDS/BLK3390
+2025-04-08 18:00:27.457048 - Found alias BLK9345 to BLKDISK in SBGOLOB.CBT509.FILE035, moved to PDS/BLK9345
+2025-04-08 18:00:27.457657 - Found BURN.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/BURN
+2025-04-08 18:00:27.458382 - Found CBTUPD.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/CBTUPD
+2025-04-08 18:00:27.459088 - Found CBT1269.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/CBT1269
+2025-04-08 18:00:27.460057 - Found CBT973.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/CBT973
+2025-04-08 18:00:27.460857 - Found CCKDDUMP.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/CCKDDUMP
+2025-04-08 18:00:27.461694 - Found CCKDLOAD.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/CCKDLOAD
+2025-04-08 18:00:27.462389 - Found CDSCB.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/CDSCB
+2025-04-08 18:00:27.463097 - Found CDSCB1.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/CDSCB1
+2025-04-08 18:00:27.463727 - Found CINMX.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/CINMX
+2025-04-08 18:00:27.464422 - Found CKIEBGEN.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/CKIEBGEN
+2025-04-08 18:00:27.465044 - Found CKIEBG06.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/CKIEBG06
+2025-04-08 18:00:27.465770 - Found CKIEBG07.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/CKIEBG07
+2025-04-08 18:00:27.466447 - Found CNCLPG.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/CNCLPG
+2025-04-08 18:00:27.467085 - Found CNCLP125.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/CNCLP125
+2025-04-08 18:00:27.467761 - Found COMPARE.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/COMPARE
+2025-04-08 18:00:27.468086 - Found alias COMPARE$ to COMPARE in SBGOLOB.CBT509.FILE035, moved to PDS/COMPARE$
+2025-04-08 18:00:27.468724 - Found COMPAREB.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/COMPAREB
+2025-04-08 18:00:27.469369 - Found COMPAREC.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/COMPAREC
+2025-04-08 18:00:27.470026 - Found COMPAREW.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/COMPAREW
+2025-04-08 18:00:27.470701 - Found COPYFILE.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/COPYFILE
+2025-04-08 18:00:27.471355 - Found COPYFILO.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/COPYFILO
+2025-04-08 18:00:27.472063 - Found COPYMODS.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/COPYMODS
+2025-04-08 18:00:27.472823 - Found COPYMO55.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/COPYMO55
+2025-04-08 18:00:27.473543 - Found COPYMO83.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/COPYMO83
+2025-04-08 18:00:27.474171 - Found COPYNLNL.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/COPYNLNL
+2025-04-08 18:00:27.474842 - Found COPYNLNO.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/COPYNLNO
+2025-04-08 18:00:27.475558 - Found COPYSLNL.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/COPYSLNL
+2025-04-08 18:00:27.476193 - Found COPYSLNO.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/COPYSLNO
+2025-04-08 18:00:27.476859 - Found COPYSLNP.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/COPYSLNP
+2025-04-08 18:00:27.477488 - Found CPSCB.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/CPSCB
+2025-04-08 18:00:27.478193 - Found DA.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/DA
+2025-04-08 18:00:27.479118 - Found DAF.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/DAF
+2025-04-08 18:00:27.479866 - Found DAF130.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/DAF130
+2025-04-08 18:00:27.480644 - Found DAF140.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/DAF140
+2025-04-08 18:00:27.481336 - Found DAF142.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/DAF142
+2025-04-08 18:00:27.482127 - Found DAF144.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/DAF144
+2025-04-08 18:00:27.482969 - Found DAF147.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/DAF147
+2025-04-08 18:00:27.483899 - Found DAF148.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/DAF148
+2025-04-08 18:00:27.484867 - Found DAF149.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/DAF149
+2025-04-08 18:00:27.485625 - Found DELINUSE.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/DELINUSE
+2025-04-08 18:00:27.486574 - Found DISKMAP.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/DISKMAP
+2025-04-08 18:00:27.487219 - Found DOCFILE.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/DOCFILE
+2025-04-08 18:00:27.487947 - Found DSAT.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/DSAT
+2025-04-08 18:00:27.488787 - Found DSATN.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/DSATN
+2025-04-08 18:00:27.489432 - Found DSATO.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/DSATO
+2025-04-08 18:00:27.490139 - Found DSAT1.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/DSAT1
+2025-04-08 18:00:27.490843 - Found DSAT2.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/DSAT2
+2025-04-08 18:00:27.491463 - Found DTEST.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/DTEST
+2025-04-08 18:00:27.492104 - Found DUSER.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/DUSER
+2025-04-08 18:00:27.492815 - Found DVOL.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/DVOL
+2025-04-08 18:00:27.493452 - Found EESCB.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/EESCB
+2025-04-08 18:00:27.494149 - Found FASTPATH.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/FASTPATH
+2025-04-08 18:00:27.494810 - Found FASTP149.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/FASTP149
+2025-04-08 18:00:27.495520 - Found IEBGEOLD.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/IEBGEOLD
+2025-04-08 18:00:27.496159 - Found IEBTSUB.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/IEBTSUB
+2025-04-08 18:00:27.496878 - Found IEHMAP.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/IEHMAP
+2025-04-08 18:00:27.497540 - Found IEHMAPIN.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/IEHMAPIN
+2025-04-08 18:00:27.498273 - Found IGG019WD.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/IGG019WD
+2025-04-08 18:00:27.498986 - Found IGG019WE.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/IGG019WE
+2025-04-08 18:00:27.499638 - Found INMXD.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/INMXD
+2025-04-08 18:00:27.500308 - Found LASTCLPA.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/LASTCLPA
+2025-04-08 18:00:27.501035 - Found LASTIPL.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/LASTIPL
+2025-04-08 18:00:27.501774 - Found LISPDS.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/LISPDS
+2025-04-08 18:00:27.502441 - Found LISTHEAD.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/LISTHEAD
+2025-04-08 18:00:27.503057 - Found LISTMOD.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/LISTMOD
+2025-04-08 18:00:27.503770 - Found LISTMODD.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/LISTMODD
+2025-04-08 18:00:27.504428 - Found LISTPDS.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/LISTPDS
+2025-04-08 18:00:27.505065 - Found LLWA.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/LLWA
+2025-04-08 18:00:27.505682 - Found LOADTEST.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/LOADTEST
+2025-04-08 18:00:27.506063 - Found alias LOADTN to LOADTEST in SBGOLOB.CBT509.FILE035, moved to PDS/LOADTN
+2025-04-08 18:00:27.506788 - Found LOGOPTS.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/LOGOPTS
+2025-04-08 18:00:27.507445 - Found LOGTIME.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/LOGTIME
+2025-04-08 18:00:27.508173 - Found LOOK.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/LOOK
+2025-04-08 18:00:27.508882 - Found LOOKJ.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/LOOKJ
+2025-04-08 18:00:27.509570 - Found LOOKX.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/LOOKX
+2025-04-08 18:00:27.510328 - Found LOOK1.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/LOOK1
+2025-04-08 18:00:27.511069 - Found LOOK2.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/LOOK2
+2025-04-08 18:00:27.511772 - Found LOOK3.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/LOOK3
+2025-04-08 18:00:27.512540 - Found LOOK31.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/LOOK31
+2025-04-08 18:00:27.513350 - Found LOOK4.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/LOOK4
+2025-04-08 18:00:27.514065 - Found LPSCB.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/LPSCB
+2025-04-08 18:00:27.514716 - Found LWATEDIT.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/LWATEDIT
+2025-04-08 18:00:27.515418 - Found LWATMGR.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/LWATMGR
+2025-04-08 18:00:27.515803 - Found alias MAPTAPE to SS0104 in SBGOLOB.CBT509.FILE035, moved to PDS/MAPTAPE
+2025-04-08 18:00:27.516495 - Found OFFLOAD.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/OFFLOAD
+2025-04-08 18:00:27.517156 - Found OFFLOADO.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/OFFLOADO
+2025-04-08 18:00:27.517853 - Found OFFLOADW.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/OFFLOADW
+2025-04-08 18:00:27.518657 - Found OFFLOAD1.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/OFFLOAD1
+2025-04-08 18:00:27.519301 - Found ONLCLIP.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/ONLCLIP
+2025-04-08 18:00:27.519963 - Found ONLCLIPX.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/ONLCLIPX
+2025-04-08 18:00:27.520636 - Found OSTAREDC.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/OSTAREDC
+2025-04-08 18:00:27.521262 - Found OSTRIP.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/OSTRIP
+2025-04-08 18:00:27.521927 - Found PACKRAT.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/PACKRAT
+2025-04-08 18:00:27.522587 - Found PACKRATU.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/PACKRATU
+2025-04-08 18:00:27.522918 - Found alias PDS to PDS86 in SBGOLOB.CBT509.FILE035, moved to PDS/PDS
+2025-04-08 18:00:27.523554 - Found PDSLOAD.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/PDSLOAD
+2025-04-08 18:00:27.524265 - Found PDSLOADO.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/PDSLOADO
+2025-04-08 18:00:27.524621 - Found alias PDSLOADW to PDSLOAD in SBGOLOB.CBT509.FILE035, moved to PDS/PDSLOADW
+2025-04-08 18:00:27.525329 - Found PDSLOAD1.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/PDSLOAD1
+2025-04-08 18:00:27.526035 - Found PDSLOAD2.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/PDSLOAD2
+2025-04-08 18:00:27.526708 - Found PDSLOAD3.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/PDSLOAD3
+2025-04-08 18:00:27.527358 - Found PDSLOAD4.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/PDSLOAD4
+2025-04-08 18:00:27.528054 - Found PDSMATCH.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/PDSMATCH
+2025-04-08 18:00:27.528671 - Found PDSMATC1.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/PDSMATC1
+2025-04-08 18:00:27.529359 - Found PDSMATC2.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/PDSMATC2
+2025-04-08 18:00:27.530014 - Found PDSORIG.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/PDSORIG
+2025-04-08 18:00:27.530673 - Found PDSUR.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/PDSUR
+2025-04-08 18:00:27.531341 - Found PDSUR00.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/PDSUR00
+2025-04-08 18:00:27.531963 - Found PDSUR01.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/PDSUR01
+2025-04-08 18:00:27.532320 - Found alias PDS38 to PDS8638 in SBGOLOB.CBT509.FILE035, moved to PDS/PDS38
+2025-04-08 18:00:27.533389 - Found PDS86.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/PDS86
+2025-04-08 18:00:27.534366 - Found PDS86I.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/PDS86I
+2025-04-08 18:00:27.535297 - Found PDS8638.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/PDS8638
+2025-04-08 18:00:27.536031 - Found RECONLIM.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/RECONLIM
+2025-04-08 18:00:27.536668 - Found RELEASE.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/RELEASE
+2025-04-08 18:00:27.537322 - Found RESET.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/RESET
+2025-04-08 18:00:27.538093 - Found SHOWTCAS.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/SHOWTCAS
+2025-04-08 18:00:27.538724 - Found SHOWTPVT.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/SHOWTPVT
+2025-04-08 18:00:27.539359 - Found SS0104.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/SS0104
+2025-04-08 18:00:27.540003 - Found STEPLIB.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/STEPLIB
+2025-04-08 18:00:27.540646 - Found STEPLIBO.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/STEPLIBO
+2025-04-08 18:00:27.541342 - Found STEPLIB1.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/STEPLIB1
+2025-04-08 18:00:27.542038 - Found TAPEL.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/TAPEL
+2025-04-08 18:00:27.542690 - Found TAPEMAP.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/TAPEMAP
+2025-04-08 18:00:27.543366 - Found TAPEMAPM.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/TAPEMAPM
+2025-04-08 18:00:27.544067 - Found TAPEMAPO.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/TAPEMAPO
+2025-04-08 18:00:27.544743 - Found TAPEMAPX.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/TAPEMAPX
+2025-04-08 18:00:27.545417 - Found TAPESCAN.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/TAPESCAN
+2025-04-08 18:00:27.545791 - Found alias TAPESC46 to TAPESCAN in SBGOLOB.CBT509.FILE035, moved to PDS/TAPESC46
+2025-04-08 18:00:27.546510 - Found TCOPY.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/TCOPY
+2025-04-08 18:00:27.547220 - Found TRMSZRPT.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/TRMSZRPT
+2025-04-08 18:00:27.547840 - Found TSTVS.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/TSTVS
+2025-04-08 18:00:27.548558 - Found TSUB.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/TSUB
+2025-04-08 18:00:27.549189 - Found TSUINFO.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/TSUINFO
+2025-04-08 18:00:27.550115 - Found TSUPDATE.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/TSUPDATE
+2025-04-08 18:00:27.550798 - Found UCBDASD.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/UCBDASD
+2025-04-08 18:00:27.551456 - Found UCBTAPE.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/UCBTAPE
+2025-04-08 18:00:27.552106 - Found UCBTYPE.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/UCBTYPE
+2025-04-08 18:00:27.552861 - Found UKEYCSA.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/UKEYCSA
+2025-04-08 18:00:27.553554 - Found ULUDASD.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/ULUDASD
+2025-04-08 18:00:27.554223 - Found ULUDIAG.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/ULUDIAG
+2025-04-08 18:00:27.554929 - Found ULUONLN.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/ULUONLN
+2025-04-08 18:00:27.555572 - Found ULUTAPE.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/ULUTAPE
+2025-04-08 18:00:27.556271 - Found ULUTSCAN.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/ULUTSCAN
+2025-04-08 18:00:27.556921 - Found ULUTYPE.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/ULUTYPE
+2025-04-08 18:00:27.557609 - Found USERMAX.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/USERMAX
+2025-04-08 18:00:27.558258 - Found USERS.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/USERS
+2025-04-08 18:00:27.558924 - Found VSAMADTL.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/VSAMADTL
+2025-04-08 18:00:27.559550 - Found VSAMAGET.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/VSAMAGET
+2025-04-08 18:00:27.560252 - Found VSAMAHLP.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/VSAMAHLP
+2025-04-08 18:00:27.560953 - Found VSAMANAL.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/VSAMANAL
+2025-04-08 18:00:27.561609 - Found VSAMANDX.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/VSAMANDX
+2025-04-08 18:00:27.561928 - Found alias VSAMMAPP to CBT1269 in SBGOLOB.CBT509.FILE035, moved to PDS/VSAMMAPP
+2025-04-08 18:00:27.562561 - Found VSAMSIZE.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/VSAMSIZE
+2025-04-08 18:00:27.563273 - Found VTOC.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/VTOC
+2025-04-08 18:00:27.563990 - Found VTOCO.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/VTOCO
+2025-04-08 18:00:27.564625 - Found VTOC1.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/VTOC1
+2025-04-08 18:00:27.565449 - Found VTOC24.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/VTOC24
+2025-04-08 18:00:27.565832 - Found alias VTOC31 to VTOCO in SBGOLOB.CBT509.FILE035, moved to PDS/VTOC31
+2025-04-08 18:00:27.566487 - Found VTT2CNVU.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/VTT2CNVU
+2025-04-08 18:00:27.567220 - Found VTT2DISK.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/VTT2DISK
+2025-04-08 18:00:27.567955 - Found VTT2FK2T.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/VTT2FK2T
+2025-04-08 18:00:27.568598 - Found VTT2TAPE.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/VTT2TAPE
+2025-04-08 18:00:27.569347 - Found VTT2T2FK.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/VTT2T2FK
+2025-04-08 18:00:27.570040 - Found WHATSNEW.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/WHATSNEW
+2025-04-08 18:00:27.570703 - Found XEQ.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/XEQ
+2025-04-08 18:00:27.571405 - Found XMDSMAIN.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/XMDSMAIN
+2025-04-08 18:00:27.572024 - Found ZAPDSCB.bin (application/octet-stream) in SBGOLOB.CBT509.FILE035, moved to PDS/ZAPDSCB
